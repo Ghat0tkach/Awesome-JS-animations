@@ -1,0 +1,45 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+section{
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border: none;
+    color: white;
+    background: rgb(40,40,40);
+}
+nav{
+    margin: 0 0;
+    min-height: 10vh;
+    background: rgb(40,40,40);
+    transition: all 0.5s ease-in-out;
+    transform:translateY(-100%) ;
+    
+}
+
+.nav-slide{
+    
+    
+    transform:translateY(0%) ;
+
+}
+p{
+    font-size: 1.5rem;
+    text-align: center;
+    color: aliceblue;
+    opacity: 1;
+    transition: fade 0.5s ease-in-out;
+}
+.fade{
+    opacity: 0;
+}
