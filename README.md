@@ -7,3 +7,4 @@
 - - [Animating Texts](https://github.com/Ghat0tkach/Awesome-JS-animations/tree/main/Animating%20Text)
 - - [Simple Hover nav](https://github.com/Ghat0tkach/Awesome-JS-animations/tree/main/Simple%20Hover)
 - - [Svg Animations](Micro-animations)
+- - [Forms](Forms)
